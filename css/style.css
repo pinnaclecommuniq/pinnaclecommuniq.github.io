@@ -3806,3 +3806,7 @@
 .features li p, .inner p  {
 	text-align: justify;
 }
+
+.major p {
+	text-align: center;
+}

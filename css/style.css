@@ -63,7 +63,20 @@
 		vertical-align: middle;
 	}
 
+	.brand-figure {
+		border-style: solid;
+		border-width: 1px;
+		border-color: #ddd;
+		display: inline-block;
+		margin: 1em; 
+		vertical-align: middle;
+		height: 310px;
+		width: 310px;
+		padding: 2em 2em;
+	}
+
 	.proprietor, .content-center {
+		margin: 0 auto;
 		text-align: center;
 	}
 

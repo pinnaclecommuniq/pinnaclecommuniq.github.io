@@ -3802,3 +3802,7 @@
 .contact-item {
 	padding-top: 8px;
 }
+
+.features li p, .inner p  {
+	text-align: justify;
+}

@@ -3821,9 +3821,107 @@
 	width: 50%;
 }
 
+.ribbon {
+	background-color: #333; 
+	min-height: 150px;
+}
+
+.ribbon-block {
+	color: #FFF;
+	cursor: pointer;
+	float: left;
+	padding: 10px 110px;
+	text-align: center;
+	width: 50%;
+}
+
+.ribbon-block:hover {
+	color: #F00;
+	transition-duration: 200ms;
+}
+
+.ribbon-block-icon {
+	float: left;
+}
+
+.ribbon-block-caption {
+	float: left;
+	font-size: 20px;
+	padding-left: 15px;
+}
+
+@media screen and (min-width: 1100px) {
+	.ribbon-block {
+		color: #FFF;
+		float: left;
+		padding: 10px 140px;
+		width: 50%;
+	}
+}
+
 @media screen and (max-width: 979px) {
 	.col-2 {
 		float: left;
 		width: 100%;
+	}
+
+	.ribbon-block {
+		color: #FFF;
+		float: left;
+		padding: 5px 25px;
+		width: 50%;
+	}
+}
+
+@media screen and (max-width: 562px) {
+	.ribbon-block-icon {
+		float: none;
+		max-width: 140px;
+	}
+
+	.ribbon-block-caption {
+		padding: 0;
+		min-width: 140px;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	.ribbon-block {
+		color: #FFF;
+		float: left;
+		padding: 10px 50px;
+		text-align: center;
+		width: 50%;
+	}
+
+	.ribbon-block-icon {
+		float: none;
+		max-width: 100px;
+	}
+
+	.ribbon-block-caption {
+		padding: 0;
+		min-width: 80px;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.ribbon-block {
+		color: #FFF;
+		float: left;
+		padding: 10px 50px;
+		text-align: center;
+		width: 50%;
+	}
+
+	.ribbon-block-icon {
+		float: none;
+		max-width: 100px;
+	}
+
+	.ribbon-block-caption {
+		padding: 0;
+		min-width: 80px;
+		margin-left: -10px;
 	}
 }

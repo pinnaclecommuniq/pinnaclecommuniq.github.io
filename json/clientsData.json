@@ -1,0 +1,44 @@
+{
+  "items" : [
+    {
+      "img": "images/clients/thumbnails/club-salon.jpg",
+      "alt" : "Club Salon"
+    },
+    {
+      "img": "images/clients/thumbnails/hitech-mobiles.jpg",
+      "alt" : "Hitech Mobiles"
+    },
+    {
+      "img": "images/clients/thumbnails/wow-momo.jpg",
+      "alt" : "Wow Momo"
+    },
+    {
+      "img": "images/clients/thumbnails/daawat.jpg",
+      "alt" : "Marufaz Daawat e Mughlai"
+    },
+    {
+      "img": "images/clients/thumbnails/choukaath.jpg",
+      "alt" : "Choukaath"
+    },
+    {
+      "img": "images/clients/thumbnails/babar-naam-gandhiji.jpg",
+      "alt" : "Babar Naam Gandhiji"
+    },
+    {
+      "img": "images/clients/thumbnails/wbmpaf-logo.jpg",
+      "alt" : "West Bengal Motion Pictures Artiste Forum"
+    },
+    {
+      "img": "images/clients/thumbnails/vignesh.jpg",
+      "alt" : "Vignesh Films"
+    },
+    {
+      "img": "images/clients/thumbnails/jalan.jpg",
+      "alt" : "Jalan International Films"
+    },
+    {
+      "img": "images/clients/thumbnails/kmf.jpg",
+      "alt" : "Kausik Mitra Films"
+    }
+  ]
+}

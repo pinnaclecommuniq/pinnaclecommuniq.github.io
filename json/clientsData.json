@@ -39,6 +39,18 @@
     {
       "img": "images/clients/thumbnails/kmf.jpg",
       "alt" : "Kausik Mitra Films"
+    },
+    {
+      "img": "images/clients/thumbnails/kks.jpg",
+      "alt" : "K.K.'s Fusion"
+    },
+    {
+      "img": "images/clients/thumbnails/lokahaar.jpg",
+      "alt" : "Lokahaar"
+    },
+    {
+      "img": "images/clients/thumbnails/cocoa-bakery.jpg",
+      "alt" : "Cocoa Bakery"
     }
   ]
 }

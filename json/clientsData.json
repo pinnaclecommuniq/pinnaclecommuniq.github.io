@@ -51,6 +51,18 @@
     {
       "img": "images/clients/thumbnails/cocoa-bakery.jpg",
       "alt" : "Cocoa Bakery"
+    },
+    {
+      "img": "images/clients/thumbnails/nirob.jpg",
+      "alt" : "Nirob - The Silence"
+    },
+    {
+      "img": "images/clients/thumbnails/pc-chandra.jpg",
+      "alt" : "PC Chandra Group"
+    },
+    {
+      "img": "images/clients/thumbnails/nerosha_logo.jpg",
+      "alt" : "Neerosha - Handcrafted to Perfection"
     }
   ]
 }

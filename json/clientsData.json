@@ -63,6 +63,22 @@
     {
       "img": "images/clients/thumbnails/nerosha_logo.jpg",
       "alt" : "Neerosha - Handcrafted to Perfection"
+    },
+    {
+      "img": "images/clients/thumbnails/wowdings.jpg",
+      "alt" : "Wowdings"
+    },
+    {
+      "img": "images/clients/thumbnails/melete.jpg",
+      "alt" : "Melete - Sweet Nothings & More"
+    },
+    {
+      "img": "images/clients/thumbnails/swissyum.png",
+      "alt" : "Swissyum - Nutritiously Yours"
+    },
+    {
+      "img": "images/clients/thumbnails/bluesky-education.png",
+      "alt" : "Bluesky Education"
     }
   ]
 }

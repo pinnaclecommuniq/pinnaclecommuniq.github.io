@@ -1,20 +1,28 @@
 {
   "items" : [
     {
-      "img": "images/clients/thumbnails/club-salon.jpg",
-      "alt" : "Club Salon"
-    },
-    {
-      "img": "images/clients/thumbnails/hitech-mobiles.jpg",
-      "alt" : "Hitech Mobiles"
-    },
-    {
       "img": "images/clients/thumbnails/wow-momo.jpg",
       "alt" : "Wow Momo"
     },
     {
+      "img": "images/clients/thumbnails/GKB-opticals.jpg",
+      "alt" : "GKB Opticals"
+    },
+    {
+      "img": "images/clients/thumbnails/club-salon.jpg",
+      "alt" : "Club Salon"
+    },
+    {
       "img": "images/clients/thumbnails/daawat.jpg",
       "alt" : "Marufaz Daawat e Mughlai"
+    },
+    {
+      "img": "images/clients/thumbnails/pc-chandra-jewellers.jpg",
+      "alt" : "P.C. Chandra Jewellers"
+    },
+    {
+      "img": "images/clients/thumbnails/hitech-mobiles.jpg",
+      "alt" : "Hitech Mobiles"
     },
     {
       "img": "images/clients/thumbnails/choukaath.jpg",
@@ -23,6 +31,14 @@
     {
       "img": "images/clients/thumbnails/babar-naam-gandhiji.jpg",
       "alt" : "Babar Naam Gandhiji"
+    },
+    {
+      "img": "images/clients/thumbnails/shesh-shongbad.jpg",
+      "alt" : "Shesh Shongbad"
+    },
+    {
+      "img": "images/clients/thumbnails/somantoral.jpg",
+      "alt" : "Somantoral"
     },
     {
       "img": "images/clients/thumbnails/wbmpaf-logo.jpg",
@@ -39,6 +55,10 @@
     {
       "img": "images/clients/thumbnails/kmf.jpg",
       "alt" : "Kausik Mitra Films"
+    },
+    {
+      "img": "images/clients/thumbnails/happycrowd-films.jpg",
+      "alt" : "Happycrowd Films"
     },
     {
       "img": "images/clients/thumbnails/kks.jpg",
@@ -59,6 +79,10 @@
     {
       "img": "images/clients/thumbnails/pc-chandra.jpg",
       "alt" : "PC Chandra Group"
+    },
+    {
+      "img": "images/clients/thumbnails/chanakya-boutique.jpg",
+      "alt" : "Chanakya Boutique"
     },
     {
       "img": "images/clients/thumbnails/nerosha_logo.jpg",
